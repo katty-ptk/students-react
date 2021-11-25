@@ -1,0 +1,14 @@
+{
+    "students": [
+        {
+            "name": "Patkany Ecaterina",
+            "age": 17,
+            "email": "ecaterina.patkany@lmvineu.ro"
+        },
+        {
+            "name": "Bunea Eliza",
+            "age": 17,
+            "email": "eliza.bunea@lmvineu.ro"
+        }
+    ]
+}
